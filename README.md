@@ -13,6 +13,7 @@ Este proyecto es una recreación del clásico juego arcade "Space Invaders", pro
 - **Instrucciones**: Una pantalla adicional de instrucciones accesible desde el menú de selección de niveles.
 
 ![Menú Inicio](./ImagenesFuncionamiento/MenuInicio.png)
+<img src="./imagenes/pantalla-juego.png" alt="Pantalla de juego" width="600"/>
 
 ## Requisitos
 

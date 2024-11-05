@@ -26,7 +26,8 @@ AUNQUE LOS ARCHIVOS VENGAN ORGANIZADOS EN CARPETAS, PARA SU EJECUCIÓN DEBEN ENC
 - cinco_máximos.py: Módulo auxiliar que gestiona el almacenamiento y recuperación de las cinco puntuaciones más altas.
 - Carpeta Imágenes: Contiene las imágenes empleadas para el diseño gráfico del juego.
 - Carpeta Audios: Contiene los archivos de audio para los sonidos integrados en el juego.
-- Carpeta Archivos: Contiene los ficheros con las tipografías, información del juego y el fichero de almacenamiento de puntuaciones. 
+- Carpeta Archivos: Contiene los ficheros con las tipografías, información del juego y el fichero de almacenamiento de puntuaciones.
+- Carpeta Imágenes de Funcionamiento: Contiene capturas de pantalla de su ejecución.
 
 ## Cómo Jugar
 

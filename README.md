@@ -12,7 +12,7 @@ Este proyecto es una recreación del clásico juego arcade "Space Invaders", pro
 - **Sistema de Puntajes**: Al finalizar la partida, la puntuación obtenida se almacena junto con el nombre del jugador. Las cinco mejores puntuaciones se muestran en la pantalla de "Game Over".
 - **Instrucciones**: Una pantalla adicional de instrucciones accesible desde el menú de selección de niveles.
 
-![Menú Inicio](./ImágenesFuncionamiento/Captura de pantalla 2024-11-05 134317.png)
+![Menú Inicio](./ImagenesFuncionamiento/Captura de pantalla 2024-11-05 134317.png)
 
 ## Requisitos
 

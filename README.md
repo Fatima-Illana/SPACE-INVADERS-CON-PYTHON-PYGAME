@@ -5,15 +5,14 @@ Este proyecto es una recreación del clásico juego arcade "Space Invaders", pro
 ## Características del Juego
 
 - **Menú Principal**: Opciones para iniciar el juego o salir.
+  
+<img src="./ImagenesFuncionamiento/MenuInicio.png" alt="Menú principal del juego" width="300"/>
 - **Selección de Dificultad**: Tres niveles de dificultad, donde los enemigos se mueven a diferentes velocidades.
 - **Controles**:
   - Mover la nave: Flechas izquierda y derecha
   - Disparar: Barra espaciadora
 - **Sistema de Puntajes**: Al finalizar la partida, la puntuación obtenida se almacena junto con el nombre del jugador. Las cinco mejores puntuaciones se muestran en la pantalla de "Game Over".
 - **Instrucciones**: Una pantalla adicional de instrucciones accesible desde el menú de selección de niveles.
-
-### Menú Principal
-<img src="./ImagenesFuncionamiento/MenuInicio.png" alt="Menú principal del juego" width="300"/>
 
 ## Requisitos
 

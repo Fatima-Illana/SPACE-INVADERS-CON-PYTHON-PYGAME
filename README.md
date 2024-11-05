@@ -19,6 +19,8 @@ Este proyecto es una recreación del clásico juego arcade "Space Invaders", pro
 
 ## Archivos
 
+AUNQUE LOS ARCHIVOS VENGAN ORGANIZADOS EN CARPETAS, PARA SU EJECUCIÓN DEBEN ENCONTRARSE TODOS EN UNA SOLA CARPETA, A UN MISMO NIVEL.
+
 - SpaceInvaders.py: Contiene el código principal del juego.
 - InformeSpaceInvaders: Informe detallado del programa completo.
 - cinco_máximos.py: Módulo auxiliar que gestiona el almacenamiento y recuperación de las cinco puntuaciones más altas.

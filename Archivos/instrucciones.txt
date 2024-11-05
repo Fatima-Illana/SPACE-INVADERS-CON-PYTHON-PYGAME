@@ -1,0 +1,10 @@
+      Bienvenido a la batalla
+Las reglas son sencillas: pilota tu 
+nave con agilidad utilizando las 
+flechas de izquierda y derecha del 
+teclado, y la barra espaciadora para 
+disparar y terminar con tus enemigos. 
+Cuidado, por cada enemigo que no
+logres matar, pierdes un punto.
+El mundo depente de ti. 
+Buena suerte. 

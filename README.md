@@ -2,6 +2,10 @@
 
 Este proyecto es una recreación del clásico juego arcade "Space Invaders", programado en Python utilizando la librería Pygame. El objetivo del juego es eliminar a los enemigos antes de que lleguen al borde inferior de la pantalla. El jugador puede seleccionar entre tres niveles de dificultad y al finalizar la partida se guarda la puntuación obtenida junto con su nombre. 
 
+## Autor
+
+- [Fátima Fuchun Illana Guerra](https://github.com/Fatima-Illana)
+
 ## Características del Juego
 
 - **Menú Principal**: Opciones para iniciar el juego o salir.
